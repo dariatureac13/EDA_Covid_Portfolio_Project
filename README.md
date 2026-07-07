@@ -139,10 +139,3 @@ The repository is explicitly organized around programmatic validation queries. T
 | `InfectedPopulationPercentage` | The portion of a country's total population that has contracted the virus up to that date. | Defines the exact societal infection penetration rate. |
 | `RollingPeopleVaccinated` | Cumulative running summation of sequential vaccine administrations computed on a day-to-day timeline. | Maps out the ongoing delivery velocity of global healthcare deployments. |
 
-
-
-
----
-
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
